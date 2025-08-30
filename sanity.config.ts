@@ -5,7 +5,7 @@ import {schemaTypes} from './schemaTypes'
 
 export default defineConfig({
   name: 'default',
-  title: 'tagalog-now-studio',
+  title: 'tagalognow-studio',
 
   projectId: '72ntt3vc',
   dataset: 'production',
